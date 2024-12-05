@@ -186,3 +186,25 @@ color: white;
 }
 }
 
+#certivications .card{
+    background-color: rgb(18, 14, 45) !important;
+     width: 300px; 
+     height: 100px;
+     display: flex;
+     justify-content: center;
+     /* align-items: center; */
+     
+
+}
+#certivications .card-body{
+ color: white;
+}
+
+#others .card{
+    width: 700px;
+    background-color:  rgb(18, 14, 45) !important;
+}
+#others .card-body li{
+    color: white;
+    margin-bottom: 3%;
+}
